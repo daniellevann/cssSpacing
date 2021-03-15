@@ -1,0 +1,23 @@
+.red {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin-top: 100px;
+  margin-left: 412px;
+}
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: flex;
+  margin: 0;
+}
+.yellow {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  display: flex;
+  margin-left: 415px;
+}
+/*# sourceMappingURL=pg1.css.map */

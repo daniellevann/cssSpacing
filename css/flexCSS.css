@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+.center {
+  text-align: center;
+}
+.center h1 {
+  background-color: black;
+  color: white;
+}
+.center ul {
+  margin: 10px;
+  list-style-type: none;
+}
+.center ul a {
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+}
+.center ul a:hover {
+  color: red;
+}
+.pg1 {
+  display: flex;
+}
+.pg1 .red {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin-top: 100px;
+  margin-left: 412px;
+}
+.pg1 .blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: flex;
+  margin: 0;
+}
+.pg1 .yellow {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  display: flex;
+  margin-left: 415px;
+}
+.pg2 {
+  display: flex;
+  flex-direction: column;
+}
+.pg2 .red2 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin-top: -450px;
+}
+.pg2 .blue2 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin-left: 150px;
+  margin-top: 150px;
+  display: flex;
+}
+.pg2 .yellow2 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  margin-top: 50px;
+  display: flex;
+}
+.pg3 {
+  display: flex;
+}
+.pg3 .red3 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin-top: 345px;
+  margin-left: -100px;
+}
+.pg3 .blue3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: flex;
+  margin-left: 350px;
+  margin-top: 200px;
+}
+.pg3 .yellow3 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  display: flex;
+  margin-top: 300px;
+}
+.pg4 {
+  display: flex;
+}
+.pg4 .red4 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin-top: 410px;
+  margin-left: -75px;
+}
+.pg4 .blue4 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: flex;
+  margin-left: -30px;
+  margin-top: 350px;
+}
+.pg4 .yellow4 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  display: flex;
+  margin-top: 350px;
+  margin-left: 450px;
+}
+.pg5 {
+  display: flex;
+}
+.pg5 .red5 {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  display: flex;
+  margin: 0;
+}
+.pg5 .blue5 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: flex;
+  margin-left: 20px;
+}
+.pg5 .yellow5 {
+  height: 150px;
+  width: 150px;
+  background-color: yellow;
+  display: flex;
+  margin-top: 120px;
+  margin-left: -100px;
+}
+/*# sourceMappingURL=flexCSS.css.map */
